@@ -1314,7 +1314,7 @@ main {
 .avatar {
     width: 140px !important;
     height: 140px !important;
-    border: 3px solid #fff;
+    /* border: 3px solid #fff; 1488 */
     min-width: 110px;
 }
 .image_area,
@@ -1372,7 +1372,7 @@ main {
     /* color: #fff; 1488 */
     font-size: 22px;
     font-weight: 500;
-    margin: 0;
+    margin: 10px 0;
 }
 .username {
     /* color: #fff; 1488 */
@@ -1391,7 +1391,7 @@ main {
 }
 .text {
     /* color: #fff; 1488 */
-    padding: 5px 0;
+    padding: 10px 0;
     font-weight: 300;
     word-wrap: break-word;
     text-align: center;
@@ -1563,9 +1563,6 @@ main {
         width: 100px !important;
         height: 100px !important;
         min-width: 100px;
-    }
-    .main_links {
-        padding-top: 10px;
     }
 }
 @media only screen and (min-width: 993px) {
