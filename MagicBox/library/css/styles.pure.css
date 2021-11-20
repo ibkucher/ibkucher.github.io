@@ -1233,7 +1233,7 @@ body {
     left: 0;
     z-index: -1;
     overflow: hidden;
-    background: hsla(0, 0%, 0%, 0.5) border-box;
+    /* background: hsla(0, 0%, 0%, 0.5) border-box; 1488 */
 }
 #outer {
     position: absolute;
@@ -1369,13 +1369,13 @@ main {
     font-weight: 500 !important;
 }
 .theme1 h1 {
-    color: #fff;
+    /* color: #fff; 1488 */
     font-size: 22px;
     font-weight: 500;
     margin: 0;
 }
 .username {
-    color: #fff;
+    /* color: #fff; 1488 */
     font-size: 16px;
     margin: 10px 0;
     font-weight: 500;
@@ -1390,7 +1390,7 @@ main {
     position: relative;
 }
 .text {
-    color: #fff;
+    /* color: #fff; 1488 */
     padding: 5px 0;
     font-weight: 300;
     word-wrap: break-word;
@@ -1465,7 +1465,7 @@ main {
     font-size: 18px;
     margin: 10px 0;
     position: relative;
-    color: #fff;
+    /* color: #fff; 1488 */
     word-wrap: break-word;
 }
 .topmenu {
