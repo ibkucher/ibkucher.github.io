@@ -34,7 +34,7 @@ svg:not(:root) {
 }
 button,
 input {
-    font-family: Montserrat, Montserrat;
+    font-family: Montserrat, sans-serif;
     font-size: 100%;
     line-height: 1.15;
     margin: 0;
@@ -103,7 +103,7 @@ html {
 }
 button,
 input {
-    font-family: Montserrat, Montserrat;
+    font-family: Montserrat, sans-serif;
 }
 ul:not(.browser-default) {
     padding-left: 0;
@@ -309,7 +309,7 @@ a {
 }
 html {
     line-height: 1.5;
-    font-family: Montserrat, Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.87);
 }
@@ -1214,7 +1214,7 @@ input[type="range"]::-ms-thumb {
     }
 }
 body {
-    font-family: Montserrat;
+    font-family: Montserrat !important, Verdana;
 }
 .page-img {
     z-index: -2;
