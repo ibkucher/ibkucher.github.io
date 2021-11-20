@@ -1394,6 +1394,7 @@ main {
     padding: 5px 0;
     font-weight: 300;
     word-wrap: break-word;
+    text-align: center;
 }
 .nav {
     position: absolute !important;
@@ -1507,7 +1508,6 @@ main {
     }
     .text {
         padding: 10px 0;
-        text-align: center;
     }
     .headerr h2 {
         font-size: 20px;
