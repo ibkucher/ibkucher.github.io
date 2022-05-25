@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.0" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<svg version="1.0" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" width="2880.717" height="2880.717" viewBox="0 0 512 512">
   <title>MoonCo</title>
   <g>
     <path id="moon" fill="#2d2d2d" d="M439.922,120.024c-4.022,1.466,7.437,32.017-37,48.218s-55.076-14.648-59.188-13.149,18.327,62.775,70.283,43.832S443.943,118.558,439.922,120.024Z"/>
